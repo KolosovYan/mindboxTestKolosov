@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTestKolosov", "MindBoxTestKolosov\MindBoxTestKolosov.csproj", "{80D00DA2-7E7A-45BF-9E20-841A79D96463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTestKolosov.tests", "MindBoxTestKolosov.tests\MindBoxTestKolosov.tests.csproj", "{6A683B4B-82C5-408B-A616-7994B567AD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D00DA2-7E7A-45BF-9E20-841A79D96463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D00DA2-7E7A-45BF-9E20-841A79D96463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D00DA2-7E7A-45BF-9E20-841A79D96463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D00DA2-7E7A-45BF-9E20-841A79D96463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A683B4B-82C5-408B-A616-7994B567AD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A683B4B-82C5-408B-A616-7994B567AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A683B4B-82C5-408B-A616-7994B567AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A683B4B-82C5-408B-A616-7994B567AD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6593B559-9142-4CC9-80ED-2980143239E1}
+	EndGlobalSection
+EndGlobal

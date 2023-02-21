@@ -1,0 +1,12 @@
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\bin\Debug\net6.0\MindBoxTestKolosov.deps.json
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\bin\Debug\net6.0\MindBoxTestKolosov.dll
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\bin\Debug\net6.0\MindBoxTestKolosov.pdb
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\MindBoxTestKolosov.csproj.AssemblyReference.cache
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\MindBoxTestKolosov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\MindBoxTestKolosov.AssemblyInfoInputs.cache
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\MindBoxTestKolosov.AssemblyInfo.cs
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\MindBoxTestKolosov.csproj.CoreCompileInputs.cache
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\MindBoxTestKolosov.dll
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\refint\MindBoxTestKolosov.dll
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\MindBoxTestKolosov.pdb
+C:\Users\Brati\Desktop\C# Быстрый старт\MindBoxTestKolosov\MindBoxTestKolosov\obj\Debug\net6.0\ref\MindBoxTestKolosov.dll
